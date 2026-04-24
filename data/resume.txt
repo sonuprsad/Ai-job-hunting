@@ -1,0 +1,11 @@
+Python Machine Learning Deep Learning NLP AI
+Data Science SQL Pandas NumPy Data Analysis
+
+React Node MongoDB Express JavaScript HTML CSS
+Frontend Backend Full Stack Web Development REST API
+
+Django Flask Backend API Development
+
+AWS Docker Kubernetes Cloud DevOps
+
+Power BI Excel Data Visualization
